@@ -1,0 +1,6 @@
+{
+  "name": "WP Booking Cloud",
+  "description": "Landing page completa do plugin WordPress WP Booking Cloud para automação de agendamentos no WhatsApp e Pix.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
